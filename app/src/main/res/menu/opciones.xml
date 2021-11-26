@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opcion_inicio"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/opcion_productos"
+        android:title="Productos" />
+    <item
+        android:id="@+id/opcion_servicios"
+        android:title="Servicios" />
+    <item
+        android:id="@+id/opcion_sucursales"
+        android:title="Sucursales" />
+</menu>
